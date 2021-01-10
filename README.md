@@ -20,9 +20,16 @@ Some results from part 1:
 
 ![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/main/images/readme1.png?raw=true)
 
-**2. Image Captioning** : Train a CNN-RNN model to predict captions for a given image. Mainly about advances in deep learning architectures like region-based CNN's, YOLO and single-shot detection algorithms, and CNN's used in combination with recurrent neural networks.
+**2. Image Captioning** : Train a CNN-RNN model to predict captions for a given image. The network is trained on the Microsoft Common Objects in Context (MS COCO) dataset. The image captioning model is displayed below.
 
-3- Project: Landmark Detection & Tracking (SLAM): Implementing SLAM, a robust method for tracking an object over time and mapping out its surrounding environment, using elements of probability, motion models, and linear algebra.
+![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/main/images/readme2.png?raw=true)
+
+![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/main/images/readme3.png?raw=true)
+
+![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/main/images/readme4.png?raw=true)
+
+
+**3. Project** : Landmark Detection & Tracking (SLAM): Implementing SLAM, a robust method for tracking an object over time and mapping out its surrounding environment, using elements of probability, motion models, and linear algebra.
 
  **Nanodegree Link:**
 > https://www.udacity.com/course/computer-vision-nanodegree--nd891
