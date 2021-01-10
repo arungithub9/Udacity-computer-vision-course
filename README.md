@@ -18,7 +18,7 @@ The system consists of a face detector that uses Haar Cascades and a Convolution
 
 Some results from part 1:
 
-![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/master/images/readme1.png?raw=true)
+![result](https://github.com/arungithub9/Udacity-computer-vision-course/blob/main/images/readme1.png?raw=true)
 
 **2. Image Captioning** : Train a CNN-RNN model to predict captions for a given image. Mainly about advances in deep learning architectures like region-based CNN's, YOLO and single-shot detection algorithms, and CNN's used in combination with recurrent neural networks.
 
